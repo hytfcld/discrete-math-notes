@@ -10,12 +10,10 @@
 
 ## 目录与笔记列表
 
-| 专题 | 文件路径 | 核心覆盖内容 | 特色亮点 |
-| :--- | :--- | :--- | :--- |
-| **专题一：图论核心知识** | [`public_graph_theory_study_notes.html`](./public_graph_theory_study_notes.html) | 握手引理、欧拉回路与哈密顿圈、de Bruijn 图建模、邻接矩阵与 Hoffman 界、Prüfer 编码与 Cayley 公式、群作用与 Burnside / Pólya 图计数、Kruskal 最小生成树、度量 TSP 近似、Hall 婚配定理、顶点着色与平面图欧拉公式 | 内嵌 **8 幅原理示意图**（含序列重建建模对比、Prüfer 编解码演示、边轮换诱导图解、贪心反例与平面图 $K_4 / K_5$ 对比） |
-| **专题二：离散几何与二元纠错码** | [`public_discrete_geometry_study_notes.html`](./public_discrete_geometry_study_notes.html) | 凸多边形对角线双射、直线划区递推与双射法、凸包与 Carathéodory 定理、Erdős–Szekeres 幸福结局定理、Fano 射影平面、仿射空间 $\mathbb{F}_2^3$、汉明距离与球填充界、标准 $[7,4,3]$ 汉明码、一阶 Reed–Muller 码 $\mathrm{RM}(1,m)$ | 内嵌 **6 幅几何与编码图解**（含标准自然二进制列序汉明码伴随式直读流程、$\mathrm{RM}(1,3)$ 多数表决译码图解）+ **4 道原创自测快题** |
-
-> 提示：你也可以将 HTML 文件直接打印导出为 PDF，放置在 `pdf/` 目录下以便移动端或平板批注阅读。
+| 专题 | 核心覆盖内容 | 特色亮点 |
+| :--- | :--- | :--- |
+| **专题一：图论核心知识** | 握手引理、欧拉回路与哈密顿圈、de Bruijn 图建模、邻接矩阵与 Hoffman 界、Prüfer 编码与 Cayley 公式、群作用与 Burnside / Pólya 图计数、Kruskal 最小生成树、度量 TSP 近似、Hall 婚配定理、顶点着色与平面图欧拉公式 | 内嵌 8 幅原理示意图（含序列重建建模对比、Prüfer 编解码演示、边轮换诱导图解、贪心反例与平面图 $K_4 / K_5$ 对比） |
+| **专题二：离散几何与二元纠错码** | 凸多边形对角线双射、直线划区递推与双射法、凸包与 Carathéodory 定理、Erdős–Szekeres 幸福结局定理、Fano 射影平面、仿射空间 $\mathbb{F}_2^3$、汉明距离与球填充界、标准 $[7,4,3]$ 汉明码、一阶 Reed–Muller 码 $\mathrm{RM}(1,m)$ | 内嵌 6 幅几何与编码图解（含标准自然二进制列序汉明码伴随式直读流程、RM(1,3) 多数表决译码图解）+ 4 道原创自测快题 |
 
 ---
 
